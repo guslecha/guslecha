@@ -1,7 +1,7 @@
 - 👋 Hola soy Gustavo
 - 👀 Estoy interesado en data science
-- 🌱 Actualmente estoy aprendiendo phython
-- 💞️ Quiero colaborar con estudiantes de python.
+- 🌱 Actualmente estoy aprendiendo Power Bi
+- 💞️ Aspiro a ser un analista que vaya más allá del análisis.
 - 📫 Contacta conmigo en glechaporcar@hotmail.com
 - 😄 Caracteristicas: tenaz, observador, curioso
 
